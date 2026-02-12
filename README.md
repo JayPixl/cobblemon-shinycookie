@@ -6,7 +6,7 @@ A lightweight Cobblemon addon that allows you to turn your favorite Cobblemon sh
 - Burnt Star Cookie - When fed to a Pokemon, it will reduce friendship and remove shiny status from a Cobblemon but give you one Stardust. Obtained by cooking a Star Cookie in a furnace.
 ## Configuration
 You can find the config file in `config/shinycookie/main.json`.
-```json
+```json5
 {
     "defaultCookieShinyChance": 0.0001, // Chance for an unseasoned cookie to make a Cobblemon shiny
     "doShinyCatchStardust": true, // Whether catching wild shiny Cobblemon should reward the player with Stardust
