@@ -1,0 +1,23 @@
+{
+  "type": "cobblemon:cooking_pot_shapeless",
+  "category": "complex_dishes",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "cobblemon:hearty_grains"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "result": {
+    "id": "shinycookie:star_cookie",
+    "count": 1
+  },
+  "seasoningTag": "cobblemon:recipe_filters/shiny_seasoning",
+  "seasoningProcessors": [
+    "shiny_cookie"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "shinycookie",
+  "version": "${version}",
+  "name": "Cobblemon: Shiny Cookie",
+  "description": "This mod adds Star Cookies to Cobblemon!",
+  "authors": [
+    "Jaypixl7"
+  ],
+  "license": "MIT License",
+  "icon": "assets/shinycookie/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.jaypixl.shinycookie.fabric.ShinyCookieModFabric"
+    ]
+  },
+  "depends": {
+    "minecraft": "1.21.1",
+    "cobblemon": ">=1.7.2 <1.8.0"
+  }
+}

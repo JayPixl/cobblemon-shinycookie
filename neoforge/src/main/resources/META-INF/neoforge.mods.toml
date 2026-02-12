@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT License"
+
+[[mods]]
+modId = "shinycookie"
+version = "${version}"
+displayName = "Cobblemon: Shiny Cookie"
+authors = "Jaypixl7"
+description = "This mod adds Star Cookies to Cobblemon!"
+logoFile = "assets/shinycookie/icon.png"
+
+[[dependencies.shinycookie]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.shinycookie]]
+modId = "neoforge"
+mandatory = true
+versionRange = "[21.1.182,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.shinycookie]]
+modId = "cobblemon"
+mandatory = true
+versionRange = "[1.7.2,)"
+ordering = "AFTER"
+side = "BOTH"

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "shinycookie:star_cookie"
+  },
+  "result": {
+    "id": "shinycookie:burnt_star_cookie"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}
