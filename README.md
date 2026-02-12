@@ -24,6 +24,5 @@ You can find the config file in `config/shinycookie/main.json`.
 }
 ```
 ## FAQ
-*"Can I use this mod in my modpack?"*
-
+#### *"Can I use this mod in my modpack?"*
 Please Do!!
